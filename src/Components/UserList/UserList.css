@@ -1,0 +1,14 @@
+.user-container{
+    display: flex;
+}
+.users{
+    border-right: 1px solid lightgray;
+    margin-left:5%;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr)
+}
+.add-user{
+    width: 20%;
+    padding: 20px;
+}

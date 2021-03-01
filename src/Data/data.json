@@ -1,0 +1,181 @@
+[{
+    "id": 1,
+    "name": "Meyer Duffrie",
+    "gender": "Agender",
+    "image": "https://i.ibb.co/6wN9prN/t4.jpg",
+    "email": "mduffrie0@tiny.cc",
+    "phone": "+351 671 991 5638",
+    "sallary": 855,
+    "job": "Internal Auditor"
+  }, {
+    "id": 2,
+    "name": "Bartram Argo",
+    "gender": "Male",
+    "image": "https://i.ibb.co/Yhp9VL1/t3.jpg",
+    "email": "bargo1@bloomberg.com",
+    "phone": "+966 993 978 3174",
+    "sallary": 3975,
+    "job": "Dental Hygienist"
+  }, {
+    "id": 3,
+    "name": "Carlos Spinas",
+    "gender": "Agender",
+    "image": "https://i.ibb.co/bKD2Vf3/person-1.jpg",
+    "email": "cspinas2@indiegogo.com",
+    "phone": "+64 169 950 8490",
+    "sallary": 4610,
+    "job": "Administrative Officer"
+  }, {
+    "id": 4,
+    "name": "Sallyanne Lumsden",
+    "gender": "Polygender",
+    "image": "https://i.ibb.co/6wN9prN/t4.jpg",
+    "email": "slumsden3@arizona.edu",
+    "phone": "+55 480 882 9876",
+    "sallary": 6766,
+    "job": "Office Assistant I"
+  }, {
+    "id": 5,
+    "name": "Haley Gentreau",
+    "gender": "Genderqueer",
+    "image": "https://i.ibb.co/CQq3kz5/team-1.jpg",
+    "email": "hgentreau4@yellowbook.com",
+    "phone": "+86 177 100 6730",
+    "sallary": 1866,
+    "job": "Software Consultant"
+  }, {
+    "id": 6,
+    "name": "Di Alejandri",
+    "gender": "Non-binary",
+    "image": "https://i.ibb.co/MnRpZ8F/t-5-min.jpg",
+    "email": "dalejandri5@jiathis.com",
+    "phone": "+57 170 905 8639",
+    "sallary": 8650,
+    "job": "Senior Cost Accountant"
+  }, {
+    "id": 7,
+    "name": "Oliviero Alwin",
+    "gender": "Male",
+    "image": "https://i.ibb.co/6tFfBh9/team-2.jpg",
+    "email": "oalwin6@usgs.gov",
+    "phone": "+63 826 819 2024",
+    "sallary": 4965,
+    "job": "Associate Professor"
+  }, {
+    "id": 8,
+    "name": "Fax Halgarth",
+    "gender": "Genderqueer",
+    "image": "https://i.ibb.co/xzWN7LR/team-3.jpg",
+    "email": "fhalgarth7@jiathis.com",
+    "phone": "+383 174 499 6207",
+    "sallary": 4724,
+    "job": "Occupational Therapist"
+  }, {
+    "id": 9,
+    "name": "Elisha McTague",
+    "gender": "Agender",
+    "image": "https://i.ibb.co/2ZhyWxv/teen.jpg",
+    "email": "emctague8@google.ru",
+    "phone": "+675 224 723 6198",
+    "sallary": 2104,
+    "job": "Project Manager"
+  }, {
+    "id": 10,
+    "name": "Kennan Curry",
+    "gender": "Polygender",
+    "image": "https://i.ibb.co/mGMJWmz/test3.jpg",
+    "email": "kcurry9@ameblo.jp",
+    "phone": "+62 348 890 6303",
+    "sallary": 7705,
+    "job": "Financial Analyst"
+  }, {
+    "id": 11,
+    "name": "Horace Pleass",
+    "gender": "Non-binary",
+    "image": "https://i.ibb.co/2M67GRq/testimonial-2-1.png",
+    "email": "hpleassa@quantcast.com",
+    "phone": "+598 137 396 9861",
+    "sallary": 5484,
+    "job": "Recruiter"
+  }, {
+    "id": 12,
+    "name": "Karilynn Seckom",
+    "gender": "Bigender",
+    "image": "https://i.ibb.co/t8MWh2r/testimonial-3-1.png",
+    "email": "kseckomb@vinaora.com",
+    "phone": "+46 804 442 5306",
+    "sallary": 6338,
+    "job": "Recruiter"
+  }, {
+    "id": 13,
+    "name": "Brenna Darkin",
+    "gender": "Agender",
+    "image": "https://i.ibb.co/XxzpNdZ/women.jpg",
+    "email": "bdarkinc@networkadvertising.org",
+    "phone": "+7 697 632 4725",
+    "sallary": 4693,
+    "job": "Editor"
+  }, {
+    "id": 14,
+    "name": "Roana Ivancevic",
+    "gender": "Polygender",
+    "image": "https://i.ibb.co/PQwcpQD/women-style.jpg",
+    "email": "rivancevicd@pagesperso-orange.fr",
+    "phone": "+81 560 449 2854",
+    "sallary": 5301,
+    "job": "Chemical Engineer"
+  }, {
+    "id": 15,
+    "name": "Giselbert Bastian",
+    "gender": "Genderfluid",
+    "image": "https://i.ibb.co/jyWr6j1/y9.png",
+    "email": "gbastiane@furl.net",
+    "phone": "+57 418 835 1444",
+    "sallary": 8785,
+    "job": "General Manager"
+  }, {
+    "id": 16,
+    "name": "Kearney Perfitt",
+    "gender": "Polygender",
+    "image": "https://i.ibb.co/XSW3z9t/member-4-1.jpg",
+    "email": "kperfittf@godaddy.com",
+    "phone": "+269 528 724 4622",
+    "sallary": 8099,
+    "job": "Physical Therapy Assistant"
+  }, {
+    "id": 17,
+    "name": "Kristos Tilford",
+    "gender": "Genderqueer",
+    "image": "https://i.ibb.co/xJBrctt/member-3-1.jpg",
+    "email": "ktilfordg@dion.ne.jp",
+    "phone": "+66 836 425 4698",
+    "sallary": 9492,
+    "job": "Account Coordinator"
+  }, {
+    "id": 18,
+    "name": "Constantin Ahrendsen",
+    "gender": "Genderfluid",
+    "image": "https://i.ibb.co/Nx5wzr5/member-2-1.jpg",
+    "email": "cahrendsenh@posterous.com",
+    "phone": "+7 765 162 1333",
+    "sallary": 4905,
+    "job": "Software Engineer I"
+  }, {
+    "id": 19,
+    "name": "Thaddeus Vamplus",
+    "gender": "Genderqueer",
+    "image": "https://i.ibb.co/k5NRpGx/member-1-1.jpg",
+    "email": "tvamplusi@mysql.com",
+    "phone": "+1 283 329 9299",
+    "sallary": 8077,
+    "job": "Structural Analysis Engineer"
+  }, {
+    "id": 20,
+    "name": "Giacopo Turfin",
+    "gender": "Non-binary",
+    "image": "https://i.ibb.co/KmHrHhg/kp-face-new-img-m-2.jpg",
+    "email": "gturfinj@etsy.com",
+    "phone": "+55 431 918 0207",
+    "sallary": 4748,
+    "job": "Systems Administrator III"
+  }]
